@@ -699,12 +699,12 @@ section {
 }
 
 @media (max-width: 1199px) {
-  #footer {
+  /*#footer {
     position: static;
     width: auto;
     padding: 20px 15px;
   }
-}
+}*/
 
 /*--------------------------------------------------------------
 # Correção do Rodapé e Conteúdo Principal
